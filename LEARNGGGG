@@ -1,0 +1,20 @@
+fork : 리모트 저장소를 내 계정의 저장소로 복사하는 것 ( 후에 Import함으로 내 로컬로 소스 복사 -> 수정 가능 )
+
+push : 로컬로 복사 한 후 수정을 한다 후에 push 하면 내 짓허브 계좌에 업로드가 된다.
+
+
+
+pull request :  내 계정에 업로드가 된것을 가지고 원본에게 보내고 합치고 싶다면
+
+이 것을 사용한다. 내 수정본을 원본에게 send 하는 것이다. 상대 마스터가 받아주면 merge 된다. ( 승훈이가 테스트 필요 ) 
+
+
+
+fetch & merge : 내가 로컬에서 작업중에 원본이 바뀌어서 내 로컬도 업뎃이 되어야 하는데 이때 사용한다. ( Test  필요 )  
+
+
+
+http://blog.outsider.ne.kr/866
+
+http://dogfeet.github.com/articles/2012/how-to-github.html
+
